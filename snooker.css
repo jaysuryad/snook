@@ -1,0 +1,85 @@
+
+.btn {
+    border-radius: 2rem;
+    padding: 1rem 1rem;
+    color: white;
+    border: none;
+    word-spacing: 5px ;
+    width: 100%;
+}
+#player1, #player2{
+    border-radius: 2rem;
+    padding: 1rem 2rem;
+    color: black;
+    border: none;
+    word-spacing: 10px ;
+    background-color:lavender ;
+    align-items: center;
+}
+#table1{
+    border-spacing: 1rem;
+    position: relative;
+    right: 5%;
+    display: table;
+}
+#table2{
+    border-spacing: 1rem;
+    position: relative;
+    left: 20%;
+}
+#table3{
+    border-spacing: 1rem;
+    position: relative;
+    left: 18%;
+}
+#snook{
+    position: relative;
+    left: 50px;
+}
+#red{
+    background-color: red;
+}
+#yellow{
+    background-color: yellow;
+}
+#green{
+    background-color: green;
+}
+#brown{
+    background-color: brown;
+}
+#blue{
+    background-color: blue;
+}
+#pink{
+    background-color: pink;
+}
+#black{
+    background-color: black;
+}
+#four{
+    background-color: blueviolet;
+}
+#bluef{
+    background-color: navy;
+}
+#pinkf{
+    background-color: skyblue;
+}
+#blackf{
+    background-color: aquamarine;
+}
+#initialscore{
+    position: relative;
+    left: 47%;
+    align-items: center;
+    border-spacing: 1rem;
+}
+h2{
+    position: relative;
+    left: 40%;
+}
+#reset{
+    color: white;
+    background-color: darkgrey;
+}
